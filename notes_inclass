@@ -1,0 +1,6 @@
+# Write your #display_rainbow method here
+
+def display_rainbow(argument)
+  puts "R: #{argument(0)}, O: #{argument(1)}, Y: #{argument(2), G: #{argument(3), B: #{argument(4), I: #{argument(5), V: #{argument(6)"  #Why do we need the "R:" at the start of this?
+  
+  #anytime we use a local variable (usually a lowercase seperated_by_underscores_phrase_or_word), we have to set it to something (define it) somewhere. To use the variable in the method, it must be defined within the definition.
